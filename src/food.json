@@ -1,0 +1,44 @@
+[
+  {
+    "name": "diaria",
+    "items": [
+      {
+        "name": "mamao",
+        "quantidade": 2,
+        "marca": "papaya",
+        "embalagem": "",
+        "observacao": "quase maduro",
+        "img": "../assets/mamao.png"
+      },
+      {
+        "name": "biscoito",
+        "quantidade": 5,
+        "marca": "bono",
+        "embalagem": "grande",
+        "observacao": "",
+        "img": "../assets/mamao.png"
+      }
+    ]
+  },
+  {
+    "name": "pet",
+    "items": [
+      {
+        "name": "racao",
+        "quantidade": 1,
+        "marca": "chronos",
+        "embalagem": "laranja",
+        "observacao": "pequena 2 kg",
+        "img": "../assets/mamao.png"
+      },
+      {
+        "name": "osso",
+        "quantidade": 1,
+        "marca": "",
+        "embalagem": "pequeno",
+        "observacao": "",
+        "img": "../assets/mamao.png"
+      }
+    ]
+  }
+]
